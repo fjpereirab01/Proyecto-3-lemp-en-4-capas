@@ -848,4 +848,5 @@ Todos los servicios se configuran automáticamente mediante scripts Bash.
 
 Esto permite replicar el entorno de forma consistente y eficiente, simplificando pruebas y despliegues.
 
-![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
+[Ver video de la práctica](practica3.mkv)
+
